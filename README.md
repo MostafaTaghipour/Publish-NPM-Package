@@ -84,7 +84,7 @@ All you need to do it provide URLs to various services you use, such as your Git
 ### Publish your package
 If you’re happy your package is working correctly and you have a good  `README.md`  file, then you’re ready to go live!
 
--   If you haven’t already,  [sign-up to npm](http://If you haven't already, sign-up to npm.). A profile picture and GitHub link can make you seem more personable if you’re hoping for contributors!
+-   If you haven’t already,  [sign-up to npm](https://www.npmjs.com/). A profile picture and GitHub link can make you seem more personable if you’re hoping for contributors!
 -   Go into your terminal, type  `npm login`  and insert your details.
 -   In the terminal, navigate to the root directory of your package run  `npm publish` or if you want to publish your package on a specific npm server run   `npm publish --registry {your_specific_npm_server_url}`
  
